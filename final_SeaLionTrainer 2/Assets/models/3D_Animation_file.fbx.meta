@@ -1,0 +1,305 @@
+fileFormatVersion: 2
+guid: 09ad2bf88cbeb447eaa44bc616fd6cd2
+timeCreated: 1481497460
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Armature
+    100004: beach ball
+    100006: body
+    100008: body 1
+    100010: Boneup
+    100012: Camera
+    100014: hand IK.L
+    100016: hand IK.L_end
+    100018: hand1.L
+    100020: hand1.R
+    100022: hand2.L
+    100024: hand2.L_end
+    100026: hand2.R
+    100028: hand2.R_end
+    100030: handIK.R
+    100032: handIK.R_end
+    100034: head
+    100036: head_end
+    100038: leg ik.L
+    100040: leg1.L
+    100042: leg1.R
+    100044: leg2.L
+    100046: leg2.L_end
+    100048: leg2.R
+    100050: leg2.R_end
+    100052: leg3.L
+    100054: leg3.L_end
+    100056: leg3.R
+    100058: leg3.R_end
+    100060: legIK.R
+    100062: neck
+    100064: Plane
+    100066: Point
+    100068: Point.001
+    100070: seaLion
+    100072: seaLion.002
+    100074: snout.001
+    100076: Sphere
+    100078: Sphere.001
+    100080: tail
+    100082: tail_end
+    400000: //RootNode
+    400002: Armature
+    400004: beach ball
+    400006: body
+    400008: body 1
+    400010: Boneup
+    400012: Camera
+    400014: hand IK.L
+    400016: hand IK.L_end
+    400018: hand1.L
+    400020: hand1.R
+    400022: hand2.L
+    400024: hand2.L_end
+    400026: hand2.R
+    400028: hand2.R_end
+    400030: handIK.R
+    400032: handIK.R_end
+    400034: head
+    400036: head_end
+    400038: leg ik.L
+    400040: leg1.L
+    400042: leg1.R
+    400044: leg2.L
+    400046: leg2.L_end
+    400048: leg2.R
+    400050: leg2.R_end
+    400052: leg3.L
+    400054: leg3.L_end
+    400056: leg3.R
+    400058: leg3.R_end
+    400060: legIK.R
+    400062: neck
+    400064: Plane
+    400066: Point
+    400068: Point.001
+    400070: seaLion
+    400072: seaLion.002
+    400074: snout.001
+    400076: Sphere
+    400078: Sphere.001
+    400080: tail
+    400082: tail_end
+    2300000: beach ball
+    2300002: Plane
+    2300004: snout.001
+    2300006: Sphere
+    2300008: Sphere.001
+    3300000: beach ball
+    3300002: Plane
+    3300004: snout.001
+    3300006: Sphere
+    3300008: Sphere.001
+    4300000: seaLion.002
+    4300002: seaLion
+    4300004: Sphere.001
+    4300006: snout.001
+    4300008: Sphere
+    4300010: body
+    4300012: beach ball
+    4300014: Plane
+    7400000: SeaLion
+    7400002: Armature|bodyAction
+    7400004: Armature|CameraAction.001
+    7400006: Armature|Sphere.002Action
+    7400008: body|bodyAction
+    7400010: body|CameraAction.001
+    7400012: body|Sphere.002Action
+    7400014: beach ball|bodyAction
+    7400016: beach ball|CameraAction.001
+    7400018: beach ball|Sphere.002Action
+    7400020: Plane|bodyAction
+    7400022: Plane|CameraAction.001
+    7400024: Plane|Sphere.002Action
+    7400026: Camera|bodyAction
+    7400028: Camera|CameraAction.001
+    7400030: Camera|Sphere.002Action
+    9500000: //RootNode
+    13700000: body
+    13700002: seaLion
+    13700004: seaLion.002
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: SeaLion
+      takeName: Armature|ArmatureAction
+      firstFrame: 0
+      lastFrame: 348
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/body 1
+        weight: 1
+      - path: Armature/body 1/leg1.L
+        weight: 1
+      - path: Armature/body 1/leg1.L/leg2.L
+        weight: 1
+      - path: Armature/body 1/leg1.L/leg2.L/leg2.L_end
+        weight: 1
+      - path: Armature/body 1/leg1.R
+        weight: 1
+      - path: Armature/body 1/leg1.R/leg2.R
+        weight: 1
+      - path: Armature/body 1/leg1.R/leg2.R/leg2.R_end
+        weight: 1
+      - path: Armature/body 1/tail
+        weight: 1
+      - path: Armature/body 1/tail/tail_end
+        weight: 1
+      - path: Armature/Boneup
+        weight: 1
+      - path: Armature/Boneup/hand1.L
+        weight: 1
+      - path: Armature/Boneup/hand1.L/hand2.L
+        weight: 1
+      - path: Armature/Boneup/hand1.L/hand2.L/hand2.L_end
+        weight: 1
+      - path: Armature/Boneup/hand1.R
+        weight: 1
+      - path: Armature/Boneup/hand1.R/hand2.R
+        weight: 1
+      - path: Armature/Boneup/hand1.R/hand2.R/hand2.R_end
+        weight: 1
+      - path: Armature/Boneup/neck
+        weight: 1
+      - path: Armature/Boneup/neck/head
+        weight: 1
+      - path: Armature/Boneup/neck/head/head_end
+        weight: 1
+      - path: Armature/Boneup/neck/head/seaLion
+        weight: 1
+      - path: Armature/Boneup/neck/head/seaLion.002
+        weight: 1
+      - path: Armature/Boneup/neck/head/snout.001
+        weight: 1
+      - path: Armature/Boneup/neck/head/Sphere
+        weight: 1
+      - path: Armature/Boneup/neck/head/Sphere.001
+        weight: 1
+      - path: Armature/hand IK.L
+        weight: 1
+      - path: Armature/hand IK.L/hand IK.L_end
+        weight: 1
+      - path: Armature/handIK.R
+        weight: 1
+      - path: Armature/handIK.R/handIK.R_end
+        weight: 1
+      - path: Armature/leg ik.L
+        weight: 1
+      - path: Armature/leg ik.L/leg3.L
+        weight: 1
+      - path: Armature/leg ik.L/leg3.L/leg3.L_end
+        weight: 1
+      - path: Armature/legIK.R
+        weight: 1
+      - path: Armature/legIK.R/leg3.R
+        weight: 1
+      - path: Armature/legIK.R/leg3.R/leg3.R_end
+        weight: 1
+      - path: beach ball
+        weight: 1
+      - path: body
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Point
+        weight: 1
+      - path: Point.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

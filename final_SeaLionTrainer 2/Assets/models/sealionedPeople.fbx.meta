@@ -1,0 +1,1126 @@
+fileFormatVersion: 2
+guid: e0f5545b269c3433a973854702b14cb9
+timeCreated: 1481497461
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: all_control
+    100002: b
+    100004: b 1
+    100006: back1
+    100008: back2
+    100010: back3
+    100012: back4
+    100014: back5
+    100016: back6
+    100018: body2
+    100020: body3
+    100022: body_control
+    100024: cluster_down
+    100026: cluster_up
+    100028: down_back_control
+    100030: eye_l
+    100032: eye_left
+    100034: eye_r
+    100036: eye_right
+    100038: eyeball_left
+    100040: eyeball_right
+    100042: glove_left
+    100044: glove_right
+    100046: hand_l
+    100048: hand_r
+    100050: head
+    100052: ik
+    100054: iris_left
+    100056: iris_right
+    100058: joint1
+    100060: joints_grp
+    100062: l_ankle
+    100064: l_ankle_control
+    100066: l_ankle_ik
+    100068: l_arm_ik
+    100070: l_clavicle
+    100072: l_clavicle_control
+    100074: l_feet
+    100076: l_feet_control
+    100078: l_feet_ik
+    100080: l_hand
+    100082: l_hand_control
+    100084: l_hand_offset
+    100086: l_knee
+    100088: l_leg
+    100090: l_middle
+    100092: l_shoulder
+    100094: l_toe
+    100096: m_l
+    100098: m_r
+    100100: mastache
+    100102: model
+    100104: pCube1
+    100106: pCube1 1
+    100108: pCube2
+    100110: pCube2 1
+    100112: polySurface1
+    100114: polySurface2
+    100116: polySurface3
+    100118: r_ankle
+    100120: r_ankle_control
+    100122: r_ankle_ik
+    100124: r_arm_ik
+    100126: r_clavicle
+    100128: r_clavicle_control
+    100130: r_feet
+    100132: r_feet_control
+    100134: r_feet_ik
+    100136: r_hand
+    100138: r_hand_control
+    100140: r_hand_offset
+    100142: r_knee
+    100144: r_leg
+    100146: r_middle
+    100148: r_shoulder
+    100150: r_toe
+    100152: root
+    100154: seal_head
+    100156: //RootNode
+    100158: spline_curve
+    100160: spline_grp
+    100162: spline_ik
+    100164: tail
+    100166: tip
+    100168: tip 1
+    100170: upper_back_control
+    100172: w
+    100174: w 1
+    100176: waist_control
+    400000: all_control
+    400002: b
+    400004: b 1
+    400006: back1
+    400008: back2
+    400010: back3
+    400012: back4
+    400014: back5
+    400016: back6
+    400018: body2
+    400020: body3
+    400022: body_control
+    400024: cluster_down
+    400026: cluster_up
+    400028: down_back_control
+    400030: eye_l
+    400032: eye_left
+    400034: eye_r
+    400036: eye_right
+    400038: eyeball_left
+    400040: eyeball_right
+    400042: glove_left
+    400044: glove_right
+    400046: hand_l
+    400048: hand_r
+    400050: head
+    400052: ik
+    400054: iris_left
+    400056: iris_right
+    400058: joint1
+    400060: joints_grp
+    400062: l_ankle
+    400064: l_ankle_control
+    400066: l_ankle_ik
+    400068: l_arm_ik
+    400070: l_clavicle
+    400072: l_clavicle_control
+    400074: l_feet
+    400076: l_feet_control
+    400078: l_feet_ik
+    400080: l_hand
+    400082: l_hand_control
+    400084: l_hand_offset
+    400086: l_knee
+    400088: l_leg
+    400090: l_middle
+    400092: l_shoulder
+    400094: l_toe
+    400096: m_l
+    400098: m_r
+    400100: mastache
+    400102: model
+    400104: pCube1
+    400106: pCube1 1
+    400108: pCube2
+    400110: pCube2 1
+    400112: polySurface1
+    400114: polySurface2
+    400116: polySurface3
+    400118: r_ankle
+    400120: r_ankle_control
+    400122: r_ankle_ik
+    400124: r_arm_ik
+    400126: r_clavicle
+    400128: r_clavicle_control
+    400130: r_feet
+    400132: r_feet_control
+    400134: r_feet_ik
+    400136: r_hand
+    400138: r_hand_control
+    400140: r_hand_offset
+    400142: r_knee
+    400144: r_leg
+    400146: r_middle
+    400148: r_shoulder
+    400150: r_toe
+    400152: root
+    400154: seal_head
+    400156: //RootNode
+    400158: spline_curve
+    400160: spline_grp
+    400162: spline_ik
+    400164: tail
+    400166: tip
+    400168: tip 1
+    400170: upper_back_control
+    400172: w
+    400174: w 1
+    400176: waist_control
+    4300000: eyeball_left
+    4300002: iris_left
+    4300004: iris_right
+    4300006: eyeball_right
+    4300008: hand_r
+    4300010: hand_l
+    4300012: body2
+    4300014: tail
+    4300016: glove_left
+    4300018: glove_right
+    4300020: polySurface1
+    4300022: polySurface2
+    4300024: polySurface3
+    4300026: b
+    4300028: w
+    4300030: b
+    4300032: w
+    4300034: head
+    4300036: pCube1
+    4300038: pCube2
+    4300040: pCube1
+    4300042: pCube2
+    7400000: IDLE
+    7400002: SHAKE_BUTT
+    7400004: Jump
+    7400006: clap_hands
+    9500000: //RootNode
+    13700000: b
+    13700002: b 1
+    13700004: body2
+    13700006: eyeball_left
+    13700008: eyeball_right
+    13700010: glove_left
+    13700012: glove_right
+    13700014: hand_l
+    13700016: hand_r
+    13700018: head
+    13700020: iris_left
+    13700022: iris_right
+    13700024: pCube1
+    13700026: pCube1 1
+    13700028: pCube2
+    13700030: pCube2 1
+    13700032: polySurface1
+    13700034: polySurface2
+    13700036: polySurface3
+    13700038: tail
+    13700040: w
+    13700042: w 1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: IDLE
+      takeName: Take 001
+      firstFrame: 110
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: all_control
+        weight: 1
+      - path: all_control/body_control
+        weight: 1
+      - path: all_control/body_control/down_back_control
+        weight: 1
+      - path: all_control/body_control/down_back_control/cluster_down
+        weight: 1
+      - path: all_control/body_control/waist_control
+        weight: 1
+      - path: all_control/body_control/waist_control/upper_back_control
+        weight: 1
+      - path: all_control/body_control/waist_control/upper_back_control/cluster_up
+        weight: 1
+      - path: all_control/body_control/waist_control/upper_back_control/l_clavicle_control
+        weight: 1
+      - path: all_control/body_control/waist_control/upper_back_control/r_clavicle_control
+        weight: 1
+      - path: all_control/l_ankle_control
+        weight: 1
+      - path: all_control/l_feet_control
+        weight: 1
+      - path: all_control/l_feet_control/l_ankle_ik
+        weight: 1
+      - path: all_control/l_feet_control/l_feet_ik
+        weight: 1
+      - path: all_control/l_hand_offset
+        weight: 1
+      - path: all_control/l_hand_offset/l_hand_control
+        weight: 1
+      - path: all_control/r_ankle_control
+        weight: 1
+      - path: all_control/r_feet_control
+        weight: 1
+      - path: all_control/r_feet_control/r_ankle_ik
+        weight: 1
+      - path: all_control/r_feet_control/r_feet_ik
+        weight: 1
+      - path: all_control/r_hand_offset
+        weight: 1
+      - path: all_control/r_hand_offset/r_hand_control
+        weight: 1
+      - path: ik
+        weight: 1
+      - path: ik/l_arm_ik
+        weight: 1
+      - path: ik/r_arm_ik
+        weight: 1
+      - path: ik/spline_grp
+        weight: 1
+      - path: ik/spline_grp/spline_curve
+        weight: 1
+      - path: ik/spline_grp/spline_ik
+        weight: 1
+      - path: joints_grp
+        weight: 1
+      - path: joints_grp/root
+        weight: 1
+      - path: joints_grp/root/back1
+        weight: 1
+      - path: joints_grp/root/back1/back2
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4/back5
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4/back5/back6
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4/back5/back6/joint1
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4/back5/l_clavicle
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4/back5/l_clavicle/l_shoulder
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4/back5/l_clavicle/l_shoulder/l_ankle
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4/back5/l_clavicle/l_shoulder/l_ankle/l_middle
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4/back5/l_clavicle/l_shoulder/l_ankle/l_middle/l_hand
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4/back5/l_clavicle/l_shoulder/l_ankle/l_middle/l_hand/tip
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4/back5/r_clavicle
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4/back5/r_clavicle/r_shoulder
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4/back5/r_clavicle/r_shoulder/r_ankle
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4/back5/r_clavicle/r_shoulder/r_ankle/r_middle
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4/back5/r_clavicle/r_shoulder/r_ankle/r_middle/r_hand
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4/back5/r_clavicle/r_shoulder/r_ankle/r_middle/r_hand/tip
+          1
+        weight: 1
+      - path: joints_grp/root/l_leg
+        weight: 1
+      - path: joints_grp/root/l_leg/l_knee
+        weight: 1
+      - path: joints_grp/root/l_leg/l_knee/l_feet
+        weight: 1
+      - path: joints_grp/root/l_leg/l_knee/l_feet/l_toe
+        weight: 1
+      - path: joints_grp/root/r_leg
+        weight: 1
+      - path: joints_grp/root/r_leg/r_knee
+        weight: 1
+      - path: joints_grp/root/r_leg/r_knee/r_feet
+        weight: 1
+      - path: joints_grp/root/r_leg/r_knee/r_feet/r_toe
+        weight: 1
+      - path: model
+        weight: 1
+      - path: model/body3
+        weight: 1
+      - path: model/body3/body2
+        weight: 1
+      - path: model/body3/hand_l
+        weight: 1
+      - path: model/body3/hand_r
+        weight: 1
+      - path: model/eye_left
+        weight: 1
+      - path: model/eye_left/eyeball_left
+        weight: 1
+      - path: model/eye_left/iris_left
+        weight: 1
+      - path: model/eye_right
+        weight: 1
+      - path: model/eye_right/eyeball_right
+        weight: 1
+      - path: model/eye_right/iris_right
+        weight: 1
+      - path: model/glove_left
+        weight: 1
+      - path: model/glove_right
+        weight: 1
+      - path: model/seal_head
+        weight: 1
+      - path: model/seal_head/eye_l
+        weight: 1
+      - path: model/seal_head/eye_l/b
+        weight: 1
+      - path: model/seal_head/eye_l/w
+        weight: 1
+      - path: model/seal_head/eye_r
+        weight: 1
+      - path: model/seal_head/eye_r/b 1
+        weight: 1
+      - path: model/seal_head/eye_r/w 1
+        weight: 1
+      - path: model/seal_head/head
+        weight: 1
+      - path: model/seal_head/m_l
+        weight: 1
+      - path: model/seal_head/m_l/pCube1
+        weight: 1
+      - path: model/seal_head/m_l/pCube2
+        weight: 1
+      - path: model/seal_head/m_r
+        weight: 1
+      - path: model/seal_head/m_r/pCube1 1
+        weight: 1
+      - path: model/seal_head/m_r/pCube2 1
+        weight: 1
+      - path: model/seal_head/mastache
+        weight: 1
+      - path: model/seal_head/mastache/polySurface1
+        weight: 1
+      - path: model/seal_head/mastache/polySurface2
+        weight: 1
+      - path: model/seal_head/mastache/polySurface3
+        weight: 1
+      - path: model/tail
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: SHAKE_BUTT
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 37
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: all_control
+        weight: 1
+      - path: all_control/body_control
+        weight: 1
+      - path: all_control/body_control/down_back_control
+        weight: 1
+      - path: all_control/body_control/down_back_control/cluster_down
+        weight: 1
+      - path: all_control/body_control/waist_control
+        weight: 1
+      - path: all_control/body_control/waist_control/upper_back_control
+        weight: 1
+      - path: all_control/body_control/waist_control/upper_back_control/cluster_up
+        weight: 1
+      - path: all_control/body_control/waist_control/upper_back_control/l_clavicle_control
+        weight: 1
+      - path: all_control/body_control/waist_control/upper_back_control/r_clavicle_control
+        weight: 1
+      - path: all_control/l_ankle_control
+        weight: 1
+      - path: all_control/l_feet_control
+        weight: 1
+      - path: all_control/l_feet_control/l_ankle_ik
+        weight: 1
+      - path: all_control/l_feet_control/l_feet_ik
+        weight: 1
+      - path: all_control/l_hand_offset
+        weight: 1
+      - path: all_control/l_hand_offset/l_hand_control
+        weight: 1
+      - path: all_control/r_ankle_control
+        weight: 1
+      - path: all_control/r_feet_control
+        weight: 1
+      - path: all_control/r_feet_control/r_ankle_ik
+        weight: 1
+      - path: all_control/r_feet_control/r_feet_ik
+        weight: 1
+      - path: all_control/r_hand_offset
+        weight: 1
+      - path: all_control/r_hand_offset/r_hand_control
+        weight: 1
+      - path: ik
+        weight: 1
+      - path: ik/l_arm_ik
+        weight: 1
+      - path: ik/r_arm_ik
+        weight: 1
+      - path: ik/spline_grp
+        weight: 1
+      - path: ik/spline_grp/spline_curve
+        weight: 1
+      - path: ik/spline_grp/spline_ik
+        weight: 1
+      - path: joints_grp
+        weight: 1
+      - path: joints_grp/root
+        weight: 1
+      - path: joints_grp/root/back1
+        weight: 1
+      - path: joints_grp/root/back1/back2
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4/back5
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4/back5/back6
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4/back5/back6/joint1
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4/back5/l_clavicle
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4/back5/l_clavicle/l_shoulder
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4/back5/l_clavicle/l_shoulder/l_ankle
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4/back5/l_clavicle/l_shoulder/l_ankle/l_middle
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4/back5/l_clavicle/l_shoulder/l_ankle/l_middle/l_hand
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4/back5/l_clavicle/l_shoulder/l_ankle/l_middle/l_hand/tip
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4/back5/r_clavicle
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4/back5/r_clavicle/r_shoulder
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4/back5/r_clavicle/r_shoulder/r_ankle
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4/back5/r_clavicle/r_shoulder/r_ankle/r_middle
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4/back5/r_clavicle/r_shoulder/r_ankle/r_middle/r_hand
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4/back5/r_clavicle/r_shoulder/r_ankle/r_middle/r_hand/tip
+          1
+        weight: 1
+      - path: joints_grp/root/l_leg
+        weight: 1
+      - path: joints_grp/root/l_leg/l_knee
+        weight: 1
+      - path: joints_grp/root/l_leg/l_knee/l_feet
+        weight: 1
+      - path: joints_grp/root/l_leg/l_knee/l_feet/l_toe
+        weight: 1
+      - path: joints_grp/root/r_leg
+        weight: 1
+      - path: joints_grp/root/r_leg/r_knee
+        weight: 1
+      - path: joints_grp/root/r_leg/r_knee/r_feet
+        weight: 1
+      - path: joints_grp/root/r_leg/r_knee/r_feet/r_toe
+        weight: 1
+      - path: model
+        weight: 1
+      - path: model/body3
+        weight: 1
+      - path: model/body3/body2
+        weight: 1
+      - path: model/body3/hand_l
+        weight: 1
+      - path: model/body3/hand_r
+        weight: 1
+      - path: model/eye_left
+        weight: 1
+      - path: model/eye_left/eyeball_left
+        weight: 1
+      - path: model/eye_left/iris_left
+        weight: 1
+      - path: model/eye_right
+        weight: 1
+      - path: model/eye_right/eyeball_right
+        weight: 1
+      - path: model/eye_right/iris_right
+        weight: 1
+      - path: model/glove_left
+        weight: 1
+      - path: model/glove_right
+        weight: 1
+      - path: model/seal_head
+        weight: 1
+      - path: model/seal_head/eye_l
+        weight: 1
+      - path: model/seal_head/eye_l/b
+        weight: 1
+      - path: model/seal_head/eye_l/w
+        weight: 1
+      - path: model/seal_head/eye_r
+        weight: 1
+      - path: model/seal_head/eye_r/b 1
+        weight: 1
+      - path: model/seal_head/eye_r/w 1
+        weight: 1
+      - path: model/seal_head/head
+        weight: 1
+      - path: model/seal_head/m_l
+        weight: 1
+      - path: model/seal_head/m_l/pCube1
+        weight: 1
+      - path: model/seal_head/m_l/pCube2
+        weight: 1
+      - path: model/seal_head/m_r
+        weight: 1
+      - path: model/seal_head/m_r/pCube1 1
+        weight: 1
+      - path: model/seal_head/m_r/pCube2 1
+        weight: 1
+      - path: model/seal_head/mastache
+        weight: 1
+      - path: model/seal_head/mastache/polySurface1
+        weight: 1
+      - path: model/seal_head/mastache/polySurface2
+        weight: 1
+      - path: model/seal_head/mastache/polySurface3
+        weight: 1
+      - path: model/tail
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Jump
+      takeName: Take 001
+      firstFrame: 45
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: all_control
+        weight: 1
+      - path: all_control/body_control
+        weight: 1
+      - path: all_control/body_control/down_back_control
+        weight: 1
+      - path: all_control/body_control/down_back_control/cluster_down
+        weight: 1
+      - path: all_control/body_control/waist_control
+        weight: 1
+      - path: all_control/body_control/waist_control/upper_back_control
+        weight: 1
+      - path: all_control/body_control/waist_control/upper_back_control/cluster_up
+        weight: 1
+      - path: all_control/body_control/waist_control/upper_back_control/l_clavicle_control
+        weight: 1
+      - path: all_control/body_control/waist_control/upper_back_control/r_clavicle_control
+        weight: 1
+      - path: all_control/l_ankle_control
+        weight: 1
+      - path: all_control/l_feet_control
+        weight: 1
+      - path: all_control/l_feet_control/l_ankle_ik
+        weight: 1
+      - path: all_control/l_feet_control/l_feet_ik
+        weight: 1
+      - path: all_control/l_hand_offset
+        weight: 1
+      - path: all_control/l_hand_offset/l_hand_control
+        weight: 1
+      - path: all_control/r_ankle_control
+        weight: 1
+      - path: all_control/r_feet_control
+        weight: 1
+      - path: all_control/r_feet_control/r_ankle_ik
+        weight: 1
+      - path: all_control/r_feet_control/r_feet_ik
+        weight: 1
+      - path: all_control/r_hand_offset
+        weight: 1
+      - path: all_control/r_hand_offset/r_hand_control
+        weight: 1
+      - path: ik
+        weight: 1
+      - path: ik/l_arm_ik
+        weight: 1
+      - path: ik/r_arm_ik
+        weight: 1
+      - path: ik/spline_grp
+        weight: 1
+      - path: ik/spline_grp/spline_curve
+        weight: 1
+      - path: ik/spline_grp/spline_ik
+        weight: 1
+      - path: joints_grp
+        weight: 1
+      - path: joints_grp/root
+        weight: 1
+      - path: joints_grp/root/back1
+        weight: 1
+      - path: joints_grp/root/back1/back2
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4/back5
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4/back5/back6
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4/back5/back6/joint1
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4/back5/l_clavicle
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4/back5/l_clavicle/l_shoulder
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4/back5/l_clavicle/l_shoulder/l_ankle
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4/back5/l_clavicle/l_shoulder/l_ankle/l_middle
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4/back5/l_clavicle/l_shoulder/l_ankle/l_middle/l_hand
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4/back5/l_clavicle/l_shoulder/l_ankle/l_middle/l_hand/tip
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4/back5/r_clavicle
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4/back5/r_clavicle/r_shoulder
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4/back5/r_clavicle/r_shoulder/r_ankle
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4/back5/r_clavicle/r_shoulder/r_ankle/r_middle
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4/back5/r_clavicle/r_shoulder/r_ankle/r_middle/r_hand
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4/back5/r_clavicle/r_shoulder/r_ankle/r_middle/r_hand/tip
+          1
+        weight: 1
+      - path: joints_grp/root/l_leg
+        weight: 1
+      - path: joints_grp/root/l_leg/l_knee
+        weight: 1
+      - path: joints_grp/root/l_leg/l_knee/l_feet
+        weight: 1
+      - path: joints_grp/root/l_leg/l_knee/l_feet/l_toe
+        weight: 1
+      - path: joints_grp/root/r_leg
+        weight: 1
+      - path: joints_grp/root/r_leg/r_knee
+        weight: 1
+      - path: joints_grp/root/r_leg/r_knee/r_feet
+        weight: 1
+      - path: joints_grp/root/r_leg/r_knee/r_feet/r_toe
+        weight: 1
+      - path: model
+        weight: 1
+      - path: model/body3
+        weight: 1
+      - path: model/body3/body2
+        weight: 1
+      - path: model/body3/hand_l
+        weight: 1
+      - path: model/body3/hand_r
+        weight: 1
+      - path: model/eye_left
+        weight: 1
+      - path: model/eye_left/eyeball_left
+        weight: 1
+      - path: model/eye_left/iris_left
+        weight: 1
+      - path: model/eye_right
+        weight: 1
+      - path: model/eye_right/eyeball_right
+        weight: 1
+      - path: model/eye_right/iris_right
+        weight: 1
+      - path: model/glove_left
+        weight: 1
+      - path: model/glove_right
+        weight: 1
+      - path: model/seal_head
+        weight: 1
+      - path: model/seal_head/eye_l
+        weight: 1
+      - path: model/seal_head/eye_l/b
+        weight: 1
+      - path: model/seal_head/eye_l/w
+        weight: 1
+      - path: model/seal_head/eye_r
+        weight: 1
+      - path: model/seal_head/eye_r/b 1
+        weight: 1
+      - path: model/seal_head/eye_r/w 1
+        weight: 1
+      - path: model/seal_head/head
+        weight: 1
+      - path: model/seal_head/m_l
+        weight: 1
+      - path: model/seal_head/m_l/pCube1
+        weight: 1
+      - path: model/seal_head/m_l/pCube2
+        weight: 1
+      - path: model/seal_head/m_r
+        weight: 1
+      - path: model/seal_head/m_r/pCube1 1
+        weight: 1
+      - path: model/seal_head/m_r/pCube2 1
+        weight: 1
+      - path: model/seal_head/mastache
+        weight: 1
+      - path: model/seal_head/mastache/polySurface1
+        weight: 1
+      - path: model/seal_head/mastache/polySurface2
+        weight: 1
+      - path: model/seal_head/mastache/polySurface3
+        weight: 1
+      - path: model/tail
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: clap_hands
+      takeName: Take 001
+      firstFrame: 80
+      lastFrame: 104
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: all_control
+        weight: 1
+      - path: all_control/body_control
+        weight: 1
+      - path: all_control/body_control/down_back_control
+        weight: 1
+      - path: all_control/body_control/down_back_control/cluster_down
+        weight: 1
+      - path: all_control/body_control/waist_control
+        weight: 1
+      - path: all_control/body_control/waist_control/upper_back_control
+        weight: 1
+      - path: all_control/body_control/waist_control/upper_back_control/cluster_up
+        weight: 1
+      - path: all_control/body_control/waist_control/upper_back_control/l_clavicle_control
+        weight: 1
+      - path: all_control/body_control/waist_control/upper_back_control/r_clavicle_control
+        weight: 1
+      - path: all_control/l_ankle_control
+        weight: 1
+      - path: all_control/l_feet_control
+        weight: 1
+      - path: all_control/l_feet_control/l_ankle_ik
+        weight: 1
+      - path: all_control/l_feet_control/l_feet_ik
+        weight: 1
+      - path: all_control/l_hand_offset
+        weight: 1
+      - path: all_control/l_hand_offset/l_hand_control
+        weight: 1
+      - path: all_control/r_ankle_control
+        weight: 1
+      - path: all_control/r_feet_control
+        weight: 1
+      - path: all_control/r_feet_control/r_ankle_ik
+        weight: 1
+      - path: all_control/r_feet_control/r_feet_ik
+        weight: 1
+      - path: all_control/r_hand_offset
+        weight: 1
+      - path: all_control/r_hand_offset/r_hand_control
+        weight: 1
+      - path: ik
+        weight: 1
+      - path: ik/l_arm_ik
+        weight: 1
+      - path: ik/r_arm_ik
+        weight: 1
+      - path: ik/spline_grp
+        weight: 1
+      - path: ik/spline_grp/spline_curve
+        weight: 1
+      - path: ik/spline_grp/spline_ik
+        weight: 1
+      - path: joints_grp
+        weight: 1
+      - path: joints_grp/root
+        weight: 1
+      - path: joints_grp/root/back1
+        weight: 1
+      - path: joints_grp/root/back1/back2
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4/back5
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4/back5/back6
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4/back5/back6/joint1
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4/back5/l_clavicle
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4/back5/l_clavicle/l_shoulder
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4/back5/l_clavicle/l_shoulder/l_ankle
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4/back5/l_clavicle/l_shoulder/l_ankle/l_middle
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4/back5/l_clavicle/l_shoulder/l_ankle/l_middle/l_hand
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4/back5/l_clavicle/l_shoulder/l_ankle/l_middle/l_hand/tip
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4/back5/r_clavicle
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4/back5/r_clavicle/r_shoulder
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4/back5/r_clavicle/r_shoulder/r_ankle
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4/back5/r_clavicle/r_shoulder/r_ankle/r_middle
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4/back5/r_clavicle/r_shoulder/r_ankle/r_middle/r_hand
+        weight: 1
+      - path: joints_grp/root/back1/back2/back3/back4/back5/r_clavicle/r_shoulder/r_ankle/r_middle/r_hand/tip
+          1
+        weight: 1
+      - path: joints_grp/root/l_leg
+        weight: 1
+      - path: joints_grp/root/l_leg/l_knee
+        weight: 1
+      - path: joints_grp/root/l_leg/l_knee/l_feet
+        weight: 1
+      - path: joints_grp/root/l_leg/l_knee/l_feet/l_toe
+        weight: 1
+      - path: joints_grp/root/r_leg
+        weight: 1
+      - path: joints_grp/root/r_leg/r_knee
+        weight: 1
+      - path: joints_grp/root/r_leg/r_knee/r_feet
+        weight: 1
+      - path: joints_grp/root/r_leg/r_knee/r_feet/r_toe
+        weight: 1
+      - path: model
+        weight: 1
+      - path: model/body3
+        weight: 1
+      - path: model/body3/body2
+        weight: 1
+      - path: model/body3/hand_l
+        weight: 1
+      - path: model/body3/hand_r
+        weight: 1
+      - path: model/eye_left
+        weight: 1
+      - path: model/eye_left/eyeball_left
+        weight: 1
+      - path: model/eye_left/iris_left
+        weight: 1
+      - path: model/eye_right
+        weight: 1
+      - path: model/eye_right/eyeball_right
+        weight: 1
+      - path: model/eye_right/iris_right
+        weight: 1
+      - path: model/glove_left
+        weight: 1
+      - path: model/glove_right
+        weight: 1
+      - path: model/seal_head
+        weight: 1
+      - path: model/seal_head/eye_l
+        weight: 1
+      - path: model/seal_head/eye_l/b
+        weight: 1
+      - path: model/seal_head/eye_l/w
+        weight: 1
+      - path: model/seal_head/eye_r
+        weight: 1
+      - path: model/seal_head/eye_r/b 1
+        weight: 1
+      - path: model/seal_head/eye_r/w 1
+        weight: 1
+      - path: model/seal_head/head
+        weight: 1
+      - path: model/seal_head/m_l
+        weight: 1
+      - path: model/seal_head/m_l/pCube1
+        weight: 1
+      - path: model/seal_head/m_l/pCube2
+        weight: 1
+      - path: model/seal_head/m_r
+        weight: 1
+      - path: model/seal_head/m_r/pCube1 1
+        weight: 1
+      - path: model/seal_head/m_r/pCube2 1
+        weight: 1
+      - path: model/seal_head/mastache
+        weight: 1
+      - path: model/seal_head/mastache/polySurface1
+        weight: 1
+      - path: model/seal_head/mastache/polySurface2
+        weight: 1
+      - path: model/seal_head/mastache/polySurface3
+        weight: 1
+      - path: model/tail
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
