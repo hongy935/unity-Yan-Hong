@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0dc2f9b17bcc04e4e8c6cebf6f9f0111
+timeCreated: 1478285464
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - streetMakerPrefab: {fileID: 4000010122687328, guid: 9dd3eb02ec7484bafaff7ba2f9804201,
+      type: 2}
+  - buildingPrefab: {fileID: 4000010005560184, guid: 68b372ee04dd9432191421a51a9870ac,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
